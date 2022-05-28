@@ -25,9 +25,20 @@ Here are some ideas to get you started:
   <img 
     width="600"
     height="300"
+    src="https://github.com/Ashleyv6/Ashleyv6/blob/main/webtrack.png"
+  >
+</p>
+
+
+<p align="center">
+  <img 
+    width="600"
+    height="300"
     src="https://github.com/Ashleyvv26/Ashleyvv26/blob/main/AshleyLogo.png"
   >
 </p>
+
+
 
 <h3 align="center">A passionate Frontend Developer | Flutter App Developer from Guatemala</h3>
 
