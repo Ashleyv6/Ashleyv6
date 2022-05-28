@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Frontend Developer | Flutter App Developer from Guatemala</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleyvv26&label=Profile%20views&color=0e75b6&style=flat" alt="ashleyv6" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleyv6&label=Profile%20views&color=0e75b6&style=flat" alt="ashleyv6" /> </p>
 
 
 ### :woman_technologist: About Me :
