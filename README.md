@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Frontend Developer | Flutter App Developer from Guatemala</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleyvv26&label=Profile%20views&color=0e75b6&style=flat" alt="ashleyvv26" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleyvv26&label=Profile%20views&color=0e75b6&style=flat" alt="ashleyv6" /> </p>
 
 
 ### :woman_technologist: About Me :
@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 <h1></h1>
 <h3 align="left">🔥My Stats:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ashleyvv26&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ashleyv6&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ashleyvv26&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF9600)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ashleyv6&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF9600)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleyvv26&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF9600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleyv6&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF9600)](https://github.com/anuraghazra/github-readme-stats)
